@@ -16,12 +16,20 @@ You can build this "Japanese Gibber" easily with accessible components. May be A
 Burn the ".hex" to the chip, and here are the pins I use:
 
 > D2 - RX
+> 
 > D3 - TX
+> 
 > D9 - Blink at start
+> 
 > A0 - Clock frequency
+> 
 > A1 - Oscillator frequency
+> 
 > A2 - Oscillator Type
+> 
 > A3 - Phoneme table start position (0 - 128)
+> 
 > A4 - Phoneme table end position (0 - 128)
+> 
 > A5 - Gap length (20 -2000ms) between sentences
 
